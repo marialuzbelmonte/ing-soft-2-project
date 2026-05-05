@@ -1,0 +1,16 @@
+Prompt: 
+"¿podrías generarme los casos de prueba de esas especificaciones 
+y enviarmelas en archivos .md?" 
+
+Análisis de las ambiguedades: 
+Creemos que algunos casos de prueba son demasiado genéricos, notamos que faltan casos borde (como: 
+porcentajes negativos, CUIT mal generado, etc)
+
+Análisis general del uso de la IA: 
+La IA generó un muy buen análisis inicial pero necesita una revisión humana obligatoria. 
+
+Podríamos reducir ambigüedades a 8/10 importantes, reescribir tests con: datos concretos y 
+más casos borde
+
+En conclusión, la IA nos ofrece velocidad, pero no podemos confiar plenamente ya que no nos 
+garantiza la correctitud del trabajo.

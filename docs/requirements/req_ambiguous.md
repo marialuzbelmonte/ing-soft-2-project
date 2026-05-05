@@ -1,6 +1,9 @@
-CHAT GPT
+INTEGRANTES DEL GRUPO: BARBERO, BELMONTE, GALVAN
 
-Prompt: A partir de este archivo ¿podrías comentarme las ambiguedades que detectas? 
+IA: CHAT GPT
+
+Prompt: 
+"A partir de este archivo ¿podrías comentarme las ambiguedades que detectas?" 
 
 🔎 Ambigüedades detectadas
 1. “Cuenta activa, suspendida o dada de baja”
@@ -111,4 +114,5 @@ formato
 💥 Falta definición de catálogo
 
 
-
+Nuesto análisis de las ambiguedades: 
+Creemos que fue muy detallado, algunas ambiguedades son demasiado finas para esta etapa, quizás se deberían priorizar las mas importantes para corregirlas/consultarlas y hacer unos buenos casos de prueba.
